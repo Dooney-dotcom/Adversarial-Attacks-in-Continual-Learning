@@ -1,0 +1,21 @@
+# Ignore virtual environment
+.venv/
+venv/
+env/
+
+# Ignore Python compiled files
+*/__pycache__/
+*.pyc
+
+# Ignore uploaded datasets
+data/
+
+# Ignore experiments outputs
+outputs/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+.git
