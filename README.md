@@ -99,7 +99,6 @@ The repository is organized into distinct modules for each experimental pipeline
 ## Getting Started
 
 ### Prerequisites
-- Operating System: macOS / Linux (Recommended)
 - Python 3.8+
 
 ### Installation
